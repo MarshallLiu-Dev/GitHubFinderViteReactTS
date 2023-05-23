@@ -16,3 +16,12 @@ function App() {
 }
 
 export default App
+
+
+
+// let user = {
+//   nome: "Marshall Liu",
+//   email: "MarshallLiu@icloud.com",
+//   idade: 25,
+//   telefone: ["35810845", "996246889"]
+// };

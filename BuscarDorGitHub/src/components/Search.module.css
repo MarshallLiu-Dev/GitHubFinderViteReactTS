@@ -8,10 +8,15 @@
     justify-content: center;
     align-items: center;
     gap: 1rem;
+    background: rgba(255, 255, 255, 0.133);
+    border: 1px solid #fff;
+    backdrop-filter: blur(3px);
+    box-shadow: 0 0 3px rgba(29, 29, 29, 0.203);
 }
 
 .search p{
-    color: rgb(28, 9, 27);
+    /* color: rgb(28, 9, 27); */
+    color: #f3d9fa;;
 }
 
 .search_container{
@@ -25,10 +30,13 @@
     border-radius: 3px;
     border: none;
     color: #9cb2b3;
+    color:#da77f2
 }
 
 .search_container button{
-    background-color:#313834 ;
+    /* background-color:#313834; */
+    /* background-color: #6e5494 ; */
+    background-color: #be4bdb;
     cursor: pointer;
     border-radius: 1rem;
 }
